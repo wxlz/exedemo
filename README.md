@@ -1,2 +1,2 @@
 # exedemo
-gorowing record about coding life
+growing record about coding life
